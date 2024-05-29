@@ -22,5 +22,5 @@ valor = float(input(f"Digite o valor do produto: "))
 novoValor = inflacionar(valor)
 
 logoSenai()
-print(f"Novo valor: {novoValor:.2f1}")
+print(f"Novo valor: {novoValor:.2f}")
 
