@@ -32,3 +32,4 @@ while True:
             input("Operador Inválido") #espera que vc digite algo 
 
 print(f"Resultado: {resultado}")       
+#print(f"Resultado: {resultado:.2f}") 
